@@ -1,9 +1,7 @@
 # overview
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyknoxville1337)](https://github.com/anuraghazra/github-readme-stats)
 
-** PGP  
------BEGIN PGP PUBLIC KEY BLOCK-----
-
+## PGP  
 xjMEY7ySGRYJKwYBBAHaRw8BAQdAPCxNuM6kTzNvjoop3EGpB6osUGVG9SRr
 GN3dC7x/cLnNLXBob2VuaXg3MTc3QHByb3Rvbi5tZSA8cGhvZW5peDcxNzdA
 cHJvdG9uLm1lPsKMBBMWCAA+BQJjvJIZCZDOkGj/2zuS9hYhBNWwXUcsiklR
@@ -14,5 +12,4 @@ kBdw8jMdm0k6fxb+xb5B5vu2eCthdeuyhC4DAQoJwngEGBYIACoFAmO8khkJ
 kM6QaP/bO5L2FiEE1bBdRyyKSVEJMD1EzpBo/9s7kvYCGwwAAO22AP4rYT6B
 zt8OSgQO8IsXitXLdG1+xcEf+6gWAFrHrQDasAD+JqxpHnNldO0x/y0WLDRs
 9KycRBPl0bDM42dzG8vP1AM=
-=L5sT
------END PGP PUBLIC KEY BLOCK-----
+=L5sT  
