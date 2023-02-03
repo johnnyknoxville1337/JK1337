@@ -1,7 +1,7 @@
 # overview
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyknoxville1337)](https://github.com/anuraghazra/github-readme-stats)
 
-## PGP  
+## PGP Public Key for Email Encryption  
 xjMEY7ySGRYJKwYBBAHaRw8BAQdAPCxNuM6kTzNvjoop3EGpB6osUGVG9SRr  
 GN3dC7x/cLnNLXBob2VuaXg3MTc3QHByb3Rvbi5tZSA8cGhvZW5peDcxNzdA  
 cHJvdG9uLm1lPsKMBBMWCAA+BQJjvJIZCZDOkGj/2zuS9hYhBNWwXUcsiklR  
