@@ -28,3 +28,5 @@ Finally, developers should always keep in mind that security is an ongoing proce
 By utilizing secureum races and properly utilizing auditing skills, developers can ensure the security of their Solidity applications and smart contracts. Regular audits by experienced auditors can help identify and address any potential security issues and ensure that the code being written is secure. Additionally, developers should be aware of the potential risks associated with the use of Solidity and other blockchain technologies, and should always strive to keep their code up to date and secure.  
 
 In conclusion, the security of Solidity-based applications and smart contracts is paramount. Utilizing secureum races and auditing skills can help ensure their security and reliability. Additionally, developers should be aware of the potential risks associated with the use of Solidity and other blockchain technologies, and should strive to keep their code up to date and secure.  
+
+Come and take your try while improving your auditing skills and attend the next [RACE](https://discord.com/channels/814328279468474419/927065287172427798).  
