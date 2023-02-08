@@ -13,7 +13,7 @@ Solidity is a programming language used to create decentralized applications (Da
 Solidity (should) enable programmers create complex and secure applications on the blockchain.  
 
 However, Solidity is also prone to security flaws. This is especially true when it comes to the development of Solidity-based applications and smart contracts.
-One of the ways this risk can be mitigated is through secureum races and the use of highly experienced auditors and their code review skills.  
+One of the ways this risk can be mitigated is through [secureum races](https://secureum.substack.com/) and the use of highly experienced auditors and their code review skills.  
 
 Secureum races are competitions where developers are challenged to review the most advanced piece of code. These competitions are used to test the identification skills in finding security flaws smart contracts. The code and the questions created for these races is reviewed by a panel of experts, who identify any potential security issues, leave them in the code or the business logic to prove the participants ability in finding the flaws while getting points for right answers.
 
