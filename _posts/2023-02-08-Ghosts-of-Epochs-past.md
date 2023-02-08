@@ -3,7 +3,7 @@ title: "Ghosts of Epochs past"
 date: 2023-02-08
 ---
 [Ghosts of Epochs past](https://ghostsofepochspast.xyz/)  
-[Beta Version](https://ghosts-cdn3350vd-keyrxng-vercel.vercel.app/)  
+[Ghosts of Epochs past - Beta Version](https://ghosts-cdn3350vd-keyrxng-vercel.vercel.app/)  
 
 ## Secureum Races and the Importance of Auditing Skills   
 When discussing blockchain technology, the concept of smart contracts is often brought up. Smart contracts are pieces of code that can be deployed on a blockchain network and are designed to facilitate, verify, or enforce the negotiation or performance of a contract.  
