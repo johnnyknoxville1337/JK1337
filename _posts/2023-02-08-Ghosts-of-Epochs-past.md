@@ -35,8 +35,8 @@ Come and take your try while improving your auditing skills and attend the next 
 ## potential steps moving forward with security auditing  
 - [ ] Participate in secureum races to identify potential security flaws in smart contracts,  
       which can lead to costly consequences if not detected and addressed quickly.  
-- [ ] Interact with experienced auditors on Discord and Twitter to review code and suggest ways to improve security,  
-      such as using secure library functions.
+- [ ] Interact with experienced auditors on Discord and Twitter to review code and suggest ways  
+      to improve security, such as using secure library functions.  
 - [ ] Understand the security implications of the code being written, including the potential for malicious actors  
       to exploit vulnerabilities and the potential risks associated.  
 - [ ] Define your Monitoring and Incident Response Strategy to create visibility and actionable insights while testing changes  
