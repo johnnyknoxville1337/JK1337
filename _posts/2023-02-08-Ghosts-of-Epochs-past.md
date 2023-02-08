@@ -34,11 +34,9 @@ Come and take your try while improving your auditing skills and attend the next 
 
 ## potential steps moving forward with security auditing  
 - [ ] Participate in secureum races to identify potential security flaws in smart contracts, which can lead to costly consequences if not detected and addressed quickly.  
-- [ ] Utilize experienced auditors to review code and suggest ways to improve security, such as using secure library functions and ensuring proper use of variable types.  
-- [ ] Understand the security implications of the code being written, including the potential for malicious actors to exploit vulnerabilities and the potential risks associated with the use of Solidity and other blockchain technologies, such as data privacy, data integrity, and scalability.  
-- [ ] Monitor and update code on a regular basis to create visibility, testing changes against a suite of automated tests and conducting periodic manual reviews to detect any newly introduced or existing vulnerabilities.  
+- [ ] Interact with experienced auditors on Discord and Twitter to review code and suggest ways to improve security, such as using secure library functions.
+- [ ] Understand the security implications of the code being written, including the potential for malicious actors to exploit vulnerabilities and the potential risks associated.  
+- [ ] Define your Monitoring and Incident Response Strategy to create visibility and actionable insights while testing changes against a suite of automated tests and conducting periodic manual reviews to detect any newly introduced or existing vulnerabilities.  
 - [ ] Establish a secure coding practice by following industry best practices and security standards.  
 - [ ] Utilize automated static code analysis tools to detect potential security issues.  
-- [ ] Insist on regular security reviews of code and use third-party security auditors to identify and address vulnerabilities on an ongoing basis.  
-
 
