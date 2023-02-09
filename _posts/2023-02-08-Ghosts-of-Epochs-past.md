@@ -43,4 +43,4 @@ Come and take your try while improving your auditing skills and attend the next 
 - Establish a secure coding practice by following industry best practices and security standards.  
 - Utilize automated static code analysis tools to detect potential security issues.  
 - Get familiar with the concepts of formal verification and assess the tools applicable for it.  
-
+- Iterate on [Ghosts of Epochs past](https://ghostsofepochspast.xyz/)  
