@@ -4,6 +4,8 @@ date: 2023-03-26
 ---
 [Chattyrental](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/room-booking-ai-assistant)  
 
+[ChattyRental Github](https://github.com/johnnyknoxville1337/AIBookingAssistant)  
+
 
 As an AI Voice Booking Assistant, the software can be configured to use Jupyter notebooks, Redis, and CSV Booking Data to reduce hallucinations and give accurate results. With the ability to instruct the AI on how "selling" it is, the full_result_string can be customized for different contexts. FastAPI and its documentation, as well as Swagger, can be utilized to create a freeAPI for the booking assistant. Gradio has been used for Voice Input and Hosting.
 
