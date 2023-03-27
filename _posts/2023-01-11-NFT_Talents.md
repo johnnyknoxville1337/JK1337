@@ -7,4 +7,5 @@ NFT Talents is an 18-week long mentoring program, aimed at empowering ambitious 
 [NFT Talents Twitter](https://twitter.com/NFT_Talents)  
 [NFT Talents Linkedin](https://www.linkedin.com/company/nft-talents)  
 [NFT Talents Website](https://web3-talents.io/nft-talents)  
+[NFT Talents Profile](https://web3-talents.io/nft-talents/profiles/gabriel-kunzer)  
 
