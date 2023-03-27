@@ -2,7 +2,7 @@
 title: "ChattyRental - AIBookingAssistant"
 date: 2023-03-26
 ---
-[Chattyrental](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/room-booking-ai-assistant)  
+[Chattyrental](https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/room-booking-ai-assistant/chattyrental-ai-room-rentals)  
 
 [ChattyRental Github](https://github.com/johnnyknoxville1337/AIBookingAssistant)  
 
