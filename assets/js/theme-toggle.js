@@ -24,10 +24,10 @@
     btn.setAttribute("type", "button");
     btn.setAttribute("class", "theme-toggle");
     btn.setAttribute("aria-label", "Theme wechseln");
-    btn.textContent = document.documentElement.getAttribute("data-theme") === "dark" ? "Hell" : "Dark";
+    btn.textContent = document.documentElement.getAttribute("data-theme") === "dark" ? "\u2600" : "\u263D";
     btn.addEventListener("click", function () {
       toggleTheme();
-      btn.textContent = document.documentElement.getAttribute("data-theme") === "dark" ? "Hell" : "Dark";
+      btn.textContent = document.documentElement.getAttribute("data-theme") === "dark" ? "\u2600" : "\u263D";
     });
     nav.appendChild(btn);
   }
@@ -47,7 +47,7 @@
       localStorage.removeItem("theme");
       detectColorScheme();
       var btn = document.querySelector(".theme-toggle");
-      if (btn) btn.textContent = document.documentElement.getAttribute("data-theme") === "dark" ? "Hell" : "Dark";
+      if (btn) btn.textContent = document.documentElement.getAttribute("data-theme") === "dark" ? "\u2600" : "\u263D";
     });
   }
 })();
