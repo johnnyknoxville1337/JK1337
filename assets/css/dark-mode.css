@@ -1,0 +1,169 @@
+/* Dark mode: System-Präferenz (ohne explizites data-theme="light") */
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) body {
+    color: #e0e0e0;
+    background-color: #1a1a1a;
+  }
+  html:not([data-theme="light"]) a {
+    color: #7eb8f7;
+  }
+  html:not([data-theme="light"]) a:visited {
+    color: #a8cdf9;
+  }
+  html:not([data-theme="light"]) a:hover {
+    color: #e0e0e0;
+  }
+  html:not([data-theme="light"]) .site-header {
+    border-top-color: #404040;
+    border-bottom-color: #333;
+  }
+  html:not([data-theme="light"]) .site-title,
+  html:not([data-theme="light"]) .site-title:visited {
+    color: #c0c0c0;
+  }
+  html:not([data-theme="light"]) .site-nav .page-link {
+    color: #e0e0e0;
+  }
+  html:not([data-theme="light"]) .site-nav {
+    background-color: #1a1a1a;
+    border-color: #333;
+  }
+  html:not([data-theme="light"]) .site-nav .menu-icon > svg {
+    fill: #c0c0c0;
+  }
+  html:not([data-theme="light"]) pre,
+  html:not([data-theme="light"]) code {
+    border-color: #333;
+    background-color: #2a2a2a;
+    color: #e0e0e0;
+  }
+  html:not([data-theme="light"]) blockquote {
+    color: #b0b0b0;
+    border-left-color: #444;
+  }
+  html:not([data-theme="light"]) table {
+    color: #d0d0d0;
+    border-color: #333;
+  }
+  html:not([data-theme="light"]) table tr:nth-child(even) {
+    background-color: #222;
+  }
+  html:not([data-theme="light"]) table th {
+    background-color: #252525;
+    border-color: #333;
+  }
+  html:not([data-theme="light"]) table td {
+    border-color: #333;
+  }
+  html:not([data-theme="light"]) .site-footer {
+    border-top-color: #333;
+  }
+  html:not([data-theme="light"]) .post-meta,
+  html:not([data-theme="light"]) .footer-col-wrapper {
+    color: #b0b0b0;
+  }
+  html:not([data-theme="light"]) .svg-icon {
+    fill: #b0b0b0;
+  }
+  html:not([data-theme="light"]) .highlight {
+    background: #252525;
+  }
+  html:not([data-theme="light"]) .highlight .highlighter-rouge & {
+    background: #2a2a2a;
+  }
+  html:not([data-theme="light"]) figcaption {
+    color: #b0b0b0;
+  }
+}
+
+/* Dark mode: Manuell gesetzt (data-theme="dark") */
+html[data-theme="dark"] body {
+  color: #e0e0e0;
+  background-color: #1a1a1a;
+}
+html[data-theme="dark"] a {
+  color: #7eb8f7;
+}
+html[data-theme="dark"] a:visited {
+  color: #a8cdf9;
+}
+html[data-theme="dark"] a:hover {
+  color: #e0e0e0;
+}
+html[data-theme="dark"] .site-header {
+  border-top-color: #404040;
+  border-bottom-color: #333;
+}
+html[data-theme="dark"] .site-title,
+html[data-theme="dark"] .site-title:visited {
+  color: #c0c0c0;
+}
+html[data-theme="dark"] .site-nav .page-link {
+  color: #e0e0e0;
+}
+html[data-theme="dark"] .site-nav {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
+html[data-theme="dark"] .site-nav .menu-icon > svg {
+  fill: #c0c0c0;
+}
+html[data-theme="dark"] pre,
+html[data-theme="dark"] code {
+  border-color: #333;
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+}
+html[data-theme="dark"] blockquote {
+  color: #b0b0b0;
+  border-left-color: #444;
+}
+html[data-theme="dark"] table {
+  color: #d0d0d0;
+  border-color: #333;
+}
+html[data-theme="dark"] table tr:nth-child(even) {
+  background-color: #222;
+}
+html[data-theme="dark"] table th {
+  background-color: #252525;
+  border-color: #333;
+}
+html[data-theme="dark"] table td {
+  border-color: #333;
+}
+html[data-theme="dark"] .site-footer {
+  border-top-color: #333;
+}
+html[data-theme="dark"] .post-meta,
+html[data-theme="dark"] .footer-col-wrapper {
+  color: #b0b0b0;
+}
+html[data-theme="dark"] .svg-icon {
+  fill: #b0b0b0;
+}
+html[data-theme="dark"] .highlight {
+  background: #252525;
+}
+html[data-theme="dark"] .highlight .highlighter-rouge & {
+  background: #2a2a2a;
+}
+html[data-theme="dark"] figcaption {
+  color: #b0b0b0;
+}
+
+/* Toggle-Button (sichtbar in beiden Modi) */
+.theme-toggle {
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 4px 8px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-left: 12px;
+  vertical-align: middle;
+}
+.theme-toggle:hover {
+  opacity: 0.85;
+}
